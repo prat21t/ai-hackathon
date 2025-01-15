@@ -26,7 +26,7 @@ function App() {
               </button>
               <button className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 
                              transition-colors shadow-lg shadow-blue-100">
-                Connect to Supabase
+                Connect 
               </button>
             </div>
           </div>
@@ -40,7 +40,7 @@ function App() {
       <footer className="bg-white border-t border-gray-200 mt-12">
         <div className="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
           <div className="text-center text-sm text-gray-500">
-            © 2024 HealthCare AI Assistant. All rights reserved.
+            © 2024 HealthCare AI Assistant. All rights reserved.developed with love
           </div>
         </div>
       </footer>
