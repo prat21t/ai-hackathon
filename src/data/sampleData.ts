@@ -229,7 +229,7 @@ export const sampleHealthGoals = [
   {
     id: '1',
     title: 'Daily Walking',
-    target: '10,000 steps',
+    target: '20,000 steps',
     progress: 75,
     dueDate: '2024-03-20',
     category: 'exercise'
