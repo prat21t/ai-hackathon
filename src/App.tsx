@@ -14,7 +14,7 @@ function App() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
-                  HealthCare AI Assistant
+                  HealthCare AI-Assistant
                 </h1>
                 <p className="text-sm text-gray-500">Your Personal Health Companion</p>
               </div>
