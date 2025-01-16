@@ -5,16 +5,16 @@ export const samplePatients: Patient[] = [
   {
     id: '1',
     userId: 'auth0|123',
-    firstName: 'John',
-    lastName: 'Doe',
-    dateOfBirth: '1980-05-15',
-    email: 'john.doe@example.com',
-    phone: '+1234567890',
-    preferredLanguage: 'en',
+    firstName: 'Prateek',
+    lastName: 'Tugoan',
+    dateOfBirth: '2002-12-21',
+    email: 'tugoanprateek50@gmail.com',
+    phone: '+918884443307',
+    preferredLanguage: 'eng',
     preferredContactMethod: 'email',
     preferredContactTime: '09:00-17:00',
-    createdAt: '2024-01-01T00:00:00Z',
-    updatedAt: '2024-01-01T00:00:00Z'
+    createdAt: '2025-01-01T00:00:00Z',
+    updatedAt: '2025-01-01T00:00:00Z'
   }
 ];
 
@@ -201,7 +201,7 @@ export const sampleVitalSigns = [
   {
     id: '3',
     name: 'Blood Glucose',
-    value: 120,
+    value: 140,
     unit: 'mg/dL',
     normalRange: {
       min: 70,
@@ -213,7 +213,7 @@ export const sampleVitalSigns = [
   {
     id: '4',
     name: 'Temperature',
-    value: 98.6,
+    value: 98.3,
     unit: '°F',
     normalRange: {
       min: 97,
