@@ -201,7 +201,7 @@ export const sampleVitalSigns = [
   {
     id: '3',
     name: 'Blood Glucose',
-    value: 140,
+    value: 120,
     unit: 'mg/dL',
     normalRange: {
       min: 70,
@@ -229,9 +229,9 @@ export const sampleHealthGoals = [
   {
     id: '1',
     title: 'Daily Walking',
-    target: '20,000 steps',
+    target: '10,000 steps',
     progress: 75,
-    dueDate: '2024-03-20',
+    dueDate: '2025-01-16',
     category: 'exercise'
   },
   {
